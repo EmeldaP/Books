@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_margin">standard_dimension</dimen>
+    <dimen name="title_size_book">book_title</dimen>
+    <dimen name="margin_search">24dp</dimen>
+    <dimen name="seach_button_text">18sp</dimen>
+</resources>
